@@ -52,15 +52,16 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
+<br><br><br>
 
+<h2> 🔥 Github Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danish9491&show_icons=true&locale=en&layout=compact" alt="danish9491" />
-</p>
+<img src="https://i.imgur.com/YCw47Dm.gif">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danish9491&show_icons=true&locale=en" alt="danish9491" />
-</p>
+   <div>
+   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danish9491&show_icons=true&theme=radical" />
+   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9491&layout=compact&theme=radical" />
+   </div>
+   </br></br></br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danish9491" alt="danish9491" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=danish9491&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
