@@ -52,9 +52,9 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
-<br><br><br>
+<br><br>
 
-<h2> 🔥 Github Stats:</h2>
+<!-- <h2> 🔥 Github Stats:</h2>  -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
@@ -62,6 +62,6 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
    <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danish9491&show_icons=true&theme=radical" />
    <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9491&layout=compact&theme=radical" />
    </div>
-   </br></br></br>
+   </br></br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=danish9491&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
