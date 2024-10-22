@@ -2,8 +2,7 @@
 
 I am currently in my third year of B.Tech in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad. With strong enthusiasm and steady commitment, I work hard to keep improving my knowledge and skills, becoming a better version of myself over time.
 
-- 🔭 I’m currently working on a project related to Data Labeling in Machine Learning.
-- 🌱 I’m currently learning about the applications of ML.
+- 🌱 Currently I’m learning Machine Learning 
 - 👯 I’m looking to collaborate on ML projects.
 - 📫 How to reach me: Drop a message on my [LinkedIn](https://www.linkedin.com/in/danish9491/).
 
