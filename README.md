@@ -63,4 +63,4 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
    </div>
    </br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=danish9491&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danish9491)](https://git.io/streak-stats)
