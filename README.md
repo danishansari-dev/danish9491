@@ -4,7 +4,7 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
 
 - 🌱 Currently I’m learning Machine Learning 
 - 👯 I’m looking to collaborate on ML projects.
-- 📫 How to reach me: Drop a message on my [LinkedIn](https://www.linkedin.com/in/danish9491/).
+- 📫 How to reach me: Drop a message on my [LinkedIn](https://www.linkedin.com/in/danishansari-dev/).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,9 +58,9 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
    <div>
-   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danish9491&show_icons=true&theme=radical" />
-   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish9491&layout=compact&theme=radical" />
+   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=danishansari-dev&show_icons=true&theme=radical" />
+   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishansari-dev&layout=compact&theme=radical" />
    </div>
    </br></br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danish9491)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danishansari-dev)](https://git.io/streak-stats)
