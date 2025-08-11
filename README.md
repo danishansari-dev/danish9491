@@ -64,3 +64,5 @@ I am currently in my third year of B.Tech in Data Science & Artificial Intellige
    </br></br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=danishansari-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danishansari-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danishansari-dev)](https://git.io/streak-stats)
