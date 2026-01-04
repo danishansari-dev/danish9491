@@ -1,6 +1,6 @@
 # Hey there! I'm Mohammad Danish Ansari
 
-I am currently in my third year of B.Tech in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad. With strong enthusiasm and steady commitment, I work hard to keep improving my knowledge and skills, becoming a better version of myself over time.
+I am currently in my final year of B.Tech in Data Science & Artificial Intelligence at the Indian Institute of Information Technology, Dharwad. With strong enthusiasm and steady commitment, I work hard to keep improving my knowledge and skills, becoming a better version of myself over time.
 
 - 🌱 Currently I’m learning Machine Learning 
 - 👯 I’m looking to collaborate on ML projects.
